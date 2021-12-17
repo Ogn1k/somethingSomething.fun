@@ -233,5 +233,8 @@ public class Controller2D : MonoBehaviour {
 
 
         transform.Translate(velocity);
+
+        
     }
+
 }
